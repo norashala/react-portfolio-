@@ -5,7 +5,7 @@ const Header = () => {
     return (
         <header className="bg-magenta text-gold p-4 flex justify-between items-center">
             <h1 className="text-3xl font-bold">
-                The Muse
+                Nora Shala
             </h1>
             <div className="flex-grow pl-20 text-center">
                 <Navigation />

@@ -11,7 +11,7 @@ const About = () => {
             />
 
             <p className="text-xl">
-                Nora <span className="text-diamond">the Muse</span> is a
+                Nora is a
                 passionate and creative web developer with a knack for building
                 responsive and aesthetically pleasing websites. With a
                 background in being awesome and several months of experience in
@@ -19,8 +19,8 @@ const About = () => {
                 beautifully crafted digital experiences. Whether working on
                 large-scale web applications or small, dynamic projects, Nora
                 brings a detail-oriented approach and a collaborative spirit to
-                every team. When not coding, Nora enjoys not camping, traveling,
-                eating, being funny, questioning the nature of the universe, and
+                every team. When not coding, Nora enjoys camping, traveling,
+                and
                 getting lost in music.
             </p>
         </div>
